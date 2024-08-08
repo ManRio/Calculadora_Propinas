@@ -16,9 +16,9 @@ Este proyecto está en fase de desarrollo y aún se están implementando varias 
 
 ## Próximas Mejoras
 
-- **Validaciones**: Mejora en la validación de los datos ingresados por el usuario.
-- **Estilos Avanzados**: Refinamiento del diseño y la usabilidad de la interfaz.
-- **Integración de Funcionalidades**: Adición de nuevas características como sugerencias de propinas personalizadas y soporte para diferentes monedas.
+- **Estilos Avanzados**: Refinamiento del diseño y la usabilidad de la interfaz. Implementación de un modo Oscuro y mejoras en el diseño responsivo de la web.
+- **Seleccion de propinas y servicio por separado**: El cliente podrá elegir el monto de la propina sin tener que ligarlo a una calidad de servicio específica.
+- **backend**: Implementar un backend para poder recopilar las respuestas del formulario, pudiendo extrapolarlo a otra página dónde recoger y mostrar los datos en forma de tablas como información para los gerentes de los negocios.
 
 ## Instalación
 
