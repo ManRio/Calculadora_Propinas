@@ -27,7 +27,7 @@ Si deseas clonar y ejecutar este proyecto localmente, sigue estos pasos:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/calculadora-de-propinas.git
+   git clone https://github.com/ManRio/calculadora-de-propinas.git
    ```
 
 2. Navega al directorio del proyecto:
